@@ -13,7 +13,9 @@
 <a href="https://www.linkedin.com/in/john-gamil/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:johnngamil@gmail.com)
+<a href="mailto:johnngamil@gmail.com">
+  <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
 <a href="https://codeforces.com/profile/Xandros">
   <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
 </a>        
